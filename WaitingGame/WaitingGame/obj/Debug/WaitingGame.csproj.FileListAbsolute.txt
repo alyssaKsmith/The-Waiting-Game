@@ -1,0 +1,16 @@
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\bin\Debug\WaitingGame.exe.config
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\bin\Debug\WaitingGame.exe
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\bin\Debug\WaitingGame.pdb
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.csproj.AssemblyReference.cache
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\MainWindow.g.cs
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\App.g.cs
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame_MarkupCompile.cache
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame_MarkupCompile.lref
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\MainWindow.baml
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.g.resources
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.Properties.Resources.resources
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.csproj.GenerateResource.cache
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.csproj.CoreCompileInputs.cache
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.exe
+C:\Users\Pinky\source\repos\WaitingGame\WaitingGame\obj\Debug\WaitingGame.pdb
