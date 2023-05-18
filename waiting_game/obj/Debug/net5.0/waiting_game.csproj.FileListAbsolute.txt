@@ -1,0 +1,16 @@
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\bin\Debug\net5.0\waiting_game.exe
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\bin\Debug\net5.0\waiting_game.deps.json
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\bin\Debug\net5.0\waiting_game.runtimeconfig.json
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\bin\Debug\net5.0\waiting_game.runtimeconfig.dev.json
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\bin\Debug\net5.0\waiting_game.dll
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\bin\Debug\net5.0\waiting_game.pdb
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.csproj.AssemblyReference.cache
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.AssemblyInfoInputs.cache
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.AssemblyInfo.cs
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.csproj.CoreCompileInputs.cache
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.dll
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\refint\waiting_game.dll
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.pdb
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\waiting_game.genruntimeconfig.cache
+C:\Users\Pinky\source\repos\waiting_game\waiting_game\obj\Debug\net5.0\ref\waiting_game.dll
